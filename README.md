@@ -10,6 +10,9 @@
 
 -   [3. Отчет об анализе текущего процесса разработки](./hw_1/project1.md)
 
--   [4. Отчет по практическому заданию Docker](./hw_1/project1.md)
+-   [4. Отчет по практическому заданию Docker](https://github.com/kievsan/stocks_products/tree/docker2)
 
--   [5. Отчет по практическому заданию CI/CD в Github Actions](./hw_1/project1.md)
+    -   [Docker](https://github.com/kievsan/stocks_products/tree/docker-compose)
+
+-   [5. Отчет по практическому заданию CI/CD в Github Actions](https://github.com/kievsan/stocks_products/tree/cicd)
+
