@@ -12,7 +12,7 @@
 
 -   [4. Отчет по практическому заданию Docker](https://github.com/kievsan/stocks_products/tree/docker2)
 
-    -   [Docker](https://github.com/kievsan/stocks_products/tree/docker-compose)
+    -   [Docker Compose](https://github.com/kievsan/stocks_products/tree/docker-compose)
 
 -   [5. Отчет по практическому заданию CI/CD в Github Actions](https://github.com/kievsan/stocks_products/tree/cicd)
 
